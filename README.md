@@ -42,6 +42,7 @@ There are some useful websties to configure and have a knowledge of JBoss.
 
 ## WSDL
 1. http://www.mastertheboss.com/javaee/jboss-web-services/how-do-i-know-the-wsdl-url-of-my-web-service
+2. http://www.mastertheboss.com/javaee/jboss-web-services/using-axis-web-services-with-jboss
 
 
 
