@@ -40,4 +40,8 @@ There ae some useful websties to configure and have a knowledge of JBoss.
 ## JDNI
 1. http://docs.oracle.com/javase/jndi/tutorial/TOC.html
 
+## WSDL
+1. http://www.mastertheboss.com/javaee/jboss-web-services/how-do-i-know-the-wsdl-url-of-my-web-service
+
+
 
