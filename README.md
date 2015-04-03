@@ -1,5 +1,5 @@
 # JBOSS Configuration
-some usefull configuration and urls for JBOSS
+There ae some useful websties to configure and have a knowledge of JBoss.
 
 ## JBosss-EAP Doc
 1. https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Application_Platform/
