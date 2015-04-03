@@ -30,13 +30,14 @@ some usefull configuration and urls for JBOSS
 
 ## Admin Console
 1. http://docs.jboss.org/jbossas/6/Admin_Console_Guide/en-US/html/Administration_Console_User_Guide-Accessing_the_Console.html
-2. 
 
 ## Firewalls
 1. http://docs.jboss.org/jbosssecurity/docs/6.0/security_guide/html/chap-Firewalls.html
-2. 
 
 ## Deploy and undeploy with the CLI
 1. https://developer.jboss.org/wiki/DeployAndUndeployWithTheCLI?_sscc=t
+
+## JDNI
+1. http://docs.oracle.com/javase/jndi/tutorial/TOC.html
 
 
