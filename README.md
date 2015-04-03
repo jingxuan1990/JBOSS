@@ -7,6 +7,7 @@ There are some useful websties to configure and have a knowledge of JBoss.
 3. http://blog.c2b2.co.uk/2013/03/the-differences-between-jboss-eap-5-and.html
 4. https://thenewcircle.com/static/bookshelf/jboss_admin_tutorial/starting_and_stopping.html
 5. http://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/beta500/html-single/index.html
+6. http://www.mastertheboss.com/jboss-courses/jbossas7training/jboss-as-7-training
 
 ## JBoss Boot Logging
 
