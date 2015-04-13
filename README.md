@@ -8,6 +8,8 @@ There are some useful websties to configure and have a knowledge of JBoss.
 4. https://thenewcircle.com/static/bookshelf/jboss_admin_tutorial/starting_and_stopping.html
 5. http://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/beta500/html-single/index.html
 6. http://www.mastertheboss.com/jboss-courses/jbossas7training/jboss-as-7-training
+7. https://docs.jboss.org/jbossas/docs/Installation_And_Getting_Started_Guide/5/html/The_JBoss_Server___A_Quick_Tour.html
+8. http://refcardz.dzone.com/refcardz/getting-started-jboss
 
 ## JBoss Boot Logging
 
@@ -44,6 +46,19 @@ There are some useful websties to configure and have a knowledge of JBoss.
 ## WSDL
 1. http://www.mastertheboss.com/javaee/jboss-web-services/how-do-i-know-the-wsdl-url-of-my-web-service
 2. http://www.mastertheboss.com/javaee/jboss-web-services/using-axis-web-services-with-jboss
+3. 
+## JACC
+1. https://developer.jboss.org/wiki/JACC
+
+
+## Twiddle
+1. https://nirvikalpa.wordpress.com/2010/08/25/start-stop-web-application-on-jboss-twiddle/
+2. http://www.coderanch.com/t/504212/JBoss/JBOSS-GA-start-stop-application
+
+## JBoss Start/Stop
+1. https://developer.jboss.org/wiki/StartAndStopTheJBossApplicationServer
+2. https://docs.jboss.org/jbossas/guides/installguide/r1/en/html/start-stop.html
+3. https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Command_Line_Access_to_JMX-Sample_twiddle_Command_Usage.html
 
 
 
