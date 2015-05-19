@@ -60,5 +60,12 @@ There are some useful websties to configure and have a knowledge of JBoss.
 2. https://docs.jboss.org/jbossas/guides/installguide/r1/en/html/start-stop.html
 3. https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Command_Line_Access_to_JMX-Sample_twiddle_Command_Usage.html
 
+##Jboss connect to MQ manager(IBM)
+1. https://developer.jboss.org/wiki/JBossEAP5IntegrationwithWebSphereMQ
+2. http://www.ibm.com/developerworks/websphere/library/techarticles/0710_ritchie/0710_ritchie.html
+3. https://developer.jboss.org/thread/170465?_sscc=t
+
+## Jboss Messaging
+1. https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Application_Platform/5/html/Messaging_User_Guide/index.html
 
 
